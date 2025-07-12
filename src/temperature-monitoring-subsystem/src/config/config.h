@@ -3,9 +3,9 @@
 
 // === WiFi Network Configuration ===
 /** @brief SSID of the WiFi network to connect to. */
-#define WIFI_SSID "TIM-18202156"
+#define WIFI_SSID ""
 /** @brief Password for the WiFi network. */
-#define WIFI_PASSWORD "MbeCOCznKXXVA7j1wzT4tapt"
+#define WIFI_PASSWORD ""
 
 // === MQTT Broker Configuration ===
 /** @brief IP address or hostname of the MQTT broker. */

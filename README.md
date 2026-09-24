@@ -6,7 +6,7 @@ This project is a distributed Internet of Things (IoT) system designed to monito
 It features a multi-node architecture communicating via **MQTT** and **Serial Connection**, orchestrated by a concurrent Python backend and visualized through a real-time web dashboard.
 
 ### 🎥 Demo
-*Check out the system in action:* [Click here to watch the demonstration video](./documentation/video.mp4)
+*Check out the system in action:* [Click here to watch the demonstration video](./doc/video_demonstration.txt)
 
 ---
 
@@ -46,13 +46,13 @@ A strong emphasis was placed on software engineering principles to ensure modula
 <summary><b>Click to expand System State Machines</b></summary>
 
 **1. Control Unit Backend FSM**
-![Control Unit FSM](./documentation/python_fsm.png)
+![Control Unit FSM](./doc/control-unit-FSM.png)
 
 **2. Temperature Monitor (ESP32) FSM**
-![ESP32 FSM](./documentation/esp32_fsm.png)
+![ESP32 FSM](./doc/temperature-monitoring-FSM.png)
 
 **3. Window Controller (Arduino) FSM**
-![Arduino FSM](./documentation/arduino_fsm.png)
+![Arduino FSM](./doc/window-controller-FSM.png)
 
 </details>
 
